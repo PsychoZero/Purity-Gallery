@@ -2,7 +2,7 @@
 
 A private, local-only media gallery for Android. No cloud, no internet access, no accounts, no data leaving your device.
 
-Purity Gallery points at a folder of photos, videos and comics and gives you a fast, tag-driven, booru-style interface to browse them.
+Purity Gallery points at a folder of photos, videos and comics and gives you a fast, tag-driven.
 
 > **Status:** Early development. Android first. Windows and Linux versions are planned after the Android version is finished.
 
@@ -25,7 +25,7 @@ Purity Gallery points at a folder of photos, videos and comics and gives you a f
 - Optional overlays: filename, date, video duration, favorite, plus a play icon on videos
 
 **Search and tags**
-- Booru-style search bar with combined tags, `-tag` exclusion and `sort:` expressions
+--style search bar with combined tags, `-tag` exclusion and `sort:` expressions
 - Post page showing the media with its tags and details; tap a tag to search it
 - Tags, notes and links on every file
 - Folders inside your main folder act as tickable filters
